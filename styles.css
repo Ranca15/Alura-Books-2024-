@@ -17,7 +17,7 @@ h1 {
   .container__botao:checked ~ .lista-menu {
     display: block;
   }
-  .cabecalho {
+  .cabeçalho {
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
@@ -25,7 +25,7 @@ h1 {
     position: relative;
   }
     
-.cabecalho__menu-hamburguer {
+.cabeçalho__menu-hamburguer {
     width: 24px;
     height: 24px;
     display: inline-block;
@@ -35,7 +35,7 @@ h1 {
 }
 @import url("styles/header.css");
 
-.cabecalho {
+.cabeçalho {
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
