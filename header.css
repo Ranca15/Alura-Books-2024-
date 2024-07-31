@@ -7,7 +7,7 @@
 .container__botao:checked ~ .lista-menu {
   display: block;
 }
-.cabecalho {
+.çabecalho {
   background-color: var(--branco);
   display: flex;
   justify-content: space-between;
@@ -15,7 +15,7 @@
   position: relative;
 }
 
-.cabecalho__menu-hamburguer {
+.çabecalho__menu-hamburguer {
     width: 24px;
     height: 24px;
     display: inline-block;
