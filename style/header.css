@@ -14,7 +14,7 @@
   background-repeat: no-repeat;
   background-position: center;
 }
-@import url("styles/header.css");
+@import url("header.css");
 
 .cabeçalho {
   background-color: var(--branco);
