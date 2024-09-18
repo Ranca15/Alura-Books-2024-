@@ -10,3 +10,7 @@
   .swiper-slide img{
     width:50% ;
   }
+  .swiper-pagination {
+    position: initial;
+    margin: 0.5em 0;
+  }
