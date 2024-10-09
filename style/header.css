@@ -29,19 +29,16 @@
   position: absolute;
   top: 100%;
   width: 60vw;
-  border-radius: 20px 20px 20px 20px;
-  background-color: var(--branco);
 }
 
-
-.container__botao:checked ~.lista-menu {
+.container__botao:checked ~ .lista-menu {
   display: block;
 }
 
 .lista-menu__titulo,
 .lista-menu__item {
   padding: 1em;
-  
+  background-color: var(--branco);
 }
 
 .lista-menu__titulo {
