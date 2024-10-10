@@ -30,7 +30,7 @@
   position: absolute;
   top: 100%;
   width: 50vw;
-  border-radius: 2 2 80px 80px;
+  border-radius: 0 0 80px 80px;
   background-color: var(--branco);
   list-style: none;
 }
