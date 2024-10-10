@@ -32,6 +32,7 @@
   width: 50vw;
   border-radius: 2 2 80px 80px;
   background-color: var(--branco);
+  list-style: none;
 }
 
 .lista-menu__titulo,
