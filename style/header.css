@@ -29,7 +29,7 @@
   display: none;
   position: absolute;
   top: 100%;
-  width: 60vw;
+  width: 10vw;
   border-radius: 0 0 6px 2px;
   background-color: var(--branco);
 }
