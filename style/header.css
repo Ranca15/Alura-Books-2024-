@@ -28,7 +28,7 @@
 .lista-menu {
   display: none;
   position: absolute;
-  top: 70%;
+  top: 100%;
   width: 50vw;
   border-radius: 2 2 80px 80px;
   background-color: var(--branco);
