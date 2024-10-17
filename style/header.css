@@ -31,13 +31,13 @@
   width: 70vw;
   border-radius: 30px 30px 30px 30px;
   background-color: var(--branco);
-  
+
   
 }
 
 .lista-menu__titulo,
 .lista-menu__item {
-  padding: 7em;
+  padding: 5em;
 }
 
 .container__botao:checked ~ .lista-menu {
