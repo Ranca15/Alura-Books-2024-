@@ -38,7 +38,7 @@
 
 .lista-menu__titulo,
 .lista-menu__item {
-  padding: 7em;
+  padding: 2em;
 }
 
 .container__botao:checked ~ .lista-menu {
@@ -47,7 +47,7 @@
 
 .lista-menu__titulo,
 .lista-menu__item {
-  padding: 7em;
+  padding: 0em;
   background-color: var(--branco);
 }
 
