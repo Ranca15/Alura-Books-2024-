@@ -82,3 +82,6 @@
     font-weight: 700;
   }
 }
+.container__titulo {
+  display: none;
+}
