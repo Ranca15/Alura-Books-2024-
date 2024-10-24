@@ -85,4 +85,8 @@
   .container__titulo--negrito {
     font-weight: 700;
   }
+  opções {
+    display: flex;
+  }
 }
+
