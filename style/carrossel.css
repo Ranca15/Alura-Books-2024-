@@ -77,3 +77,16 @@
   margin: 0 0.5em;
   list-style: none;
 }
+@media screen and (min-width: 1024px) {
+  .swiper-pagination {
+  margin: 2em 0 3em 0;
+}
+.swiper {
+  width: 60%;
+}
+.swiper-button-prev,
+  .swiper-button-next {
+    display: block;
+    top: 60%;
+  }
+}
