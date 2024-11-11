@@ -131,6 +131,15 @@
       color: var(--preto);
       padding-right: 30px;
   }
+  .banner__pesquisa {
+    width: 35%;
+  }
+  .banner {
+    padding: 5em 0;
+  }
+  .banner__pesquisa::placeholder {
+    background-position: 12em;
+  }
 
   .opções {
       margin-right: auto;
