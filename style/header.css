@@ -6,6 +6,9 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+.container__botao:checked ~ .container__rotulo > .cabeçalho__menu-hamburguer {
+  background-image: url("../img/Menu Aberto.png");
+}
 
 .cabeçalho {
   background-color: var(--branco);
